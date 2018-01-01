@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="9">
+
+    <TextView
+        android:id="@+id/team_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/colorWhite"
+        android:text="Chelsea" />
+    <TextView
+        android:id="@+id/team_match"
+        android:layout_width="0dp"
+        android:textColor="@color/colorWhite"
+        android:layout_height="wrap_content"
+        android:text="Match/3"
+        android:gravity="center"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/team_win"
+        android:layout_width="0dp"
+        android:textColor="@color/colorWhite"
+        android:layout_height="wrap_content"
+        android:text="win/2"
+        android:gravity="center"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/team_draw"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="win/2"
+        android:textColor="@color/colorWhite"
+        android:gravity="center"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/team_lose"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="win/2"
+        android:textColor="@color/colorWhite"
+        android:gravity="center"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/team_point"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="100"
+        android:textColor="@color/colorWhite"
+        android:gravity="center"
+        android:layout_weight="1"/>
+
+</LinearLayout>
+
+

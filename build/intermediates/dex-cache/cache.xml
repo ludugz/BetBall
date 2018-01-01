@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ce1e0fe157310363ad615640eca818c9fe2ee543.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\71d5b7d41d594749c1e3bb6b61d9b39623aa79f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dce5ed5e38199bc0a037701e7b51a7c12c2d551b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\a102f6d63b2b926c214f643290ae1131aa2fcc9e\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_3fde73cfe729f58f526df3fc68b70c5cc1664699\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\861f088a3f2ce66364f66716885830887641b7cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\pre-dexed\debug\classes_0fb4595d26bbfa4d4026f7a6318914f50ea95a2a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\861f088a3f2ce66364f66716885830887641b7cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fb4595d26bbfa4d4026f7a6318914f50ea95a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_ce1e0fe157310363ad615640eca818c9fe2ee543\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\26dc22b1435d14b00661e92c915f5a16e8cc5660\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_441b31e339a230be683fadb90b6d37a05d302813\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_23ebfa861d5e9a1428178b025ba58dd25809a6d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\a102f6d63b2b926c214f643290ae1131aa2fcc9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\pre-dexed\debug\classes_aa193940c260a1153fc50d5450ae924ecfab9f56.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\a102f6d63b2b926c214f643290ae1131aa2fcc9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa193940c260a1153fc50d5450ae924ecfab9f56\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_bde74d9c589aac33efba0ac69ede9538a22002eb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32188294d1d9db9a19d10770c4469460f4e929b1">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2cf97bb7dab22c311b95c6348bc0de8b91aed4ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\26dc22b1435d14b00661e92c915f5a16e8cc5660\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\pre-dexed\debug\classes_441b31e339a230be683fadb90b6d37a05d302813.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_bde74d9c589aac33efba0ac69ede9538a22002eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\a102f6d63b2b926c214f643290ae1131aa2fcc9e\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_3fde73cfe729f58f526df3fc68b70c5cc1664699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\71d5b7d41d594749c1e3bb6b61d9b39623aa79f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\pre-dexed\debug\classes_dce5ed5e38199bc0a037701e7b51a7c12c2d551b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\1b1699715145e73c96650c38d7e3d8d41dceac7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b7a9242e69dee6dd1f8e04b3e3cab08495bda77\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\1b1699715145e73c96650c38d7e3d8d41dceac7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\admin\Desktop\Android\BetBall\BetBall\app\build\intermediates\pre-dexed\debug\classes_9b7a9242e69dee6dd1f8e04b3e3cab08495bda77.jar" />
+    </item>
+
+</items>

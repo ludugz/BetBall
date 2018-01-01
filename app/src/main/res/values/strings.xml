@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">BetBall</string>
+    <string name="editor_insert_pet_successful">Data saved</string>
+    <string name="editor_insert_pet_failed">Error with saving data</string>
+
+    <string name="team_name">Nhập tên đội</string>
+    <string name="hint_team_name">Chelsea</string>
+
+    <string name="team_match">Nhập số trận</string>
+    <string name="hint_team_match">5</string>
+
+    <string name="team_win">Trận thắng</string>
+    <string name="hint_team_win">3</string>
+
+    <string name="team_draw">Trận hòa</string>
+    <string name="hint_team_draw">1</string>
+
+    <string name="team_lose">Trận thua</string>
+    <string name="hint_team_lose">1</string>
+
+    <string name="team_goalwin">Số bàn thắng</string>
+    <string name="hint_team_goalwin">19</string>
+
+    <string name="team_goallose">Số bàn thua</string>
+    <string name="hint_team_goallose">3</string>
+
+    <string name="cauthu_promt">Chon mot cau thu</string>
+
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a match</string>
+
+    <string-array name="team_array">
+        <item>Chelsea</item>
+        <item>Manchester United</item>
+        <item>Tottenham</item>
+        <item>Liverpool</item>
+        <item>Manchester City</item>
+        <item>Arsenal</item>
+    </string-array>
+
+    <string-array name="round_array">
+        <item>1</item>
+        <item>2 United</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5 City</item>
+    </string-array>
+
+    <string-array name="player_array">
+        <item>Michael Ballack</item>
+        <item>Johnson Terry</item>
+        <item>Didier Drogba</item>
+        <item>Vincent Kompany</item>
+        <item>Frank Lampard</item>
+        <item>Fernando Torres</item>
+        <item>Lionel Messi</item>
+        <item>Cristiano 7</item>
+        <item>Jose Mourinho</item>
+        <item>Abramovic</item>
+        <item>Ibrahimovic</item>
+
+    </string-array>
+</resources>

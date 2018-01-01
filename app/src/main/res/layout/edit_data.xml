@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/edit_data_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:context=".EditData">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_team_name"
+                android:text="@string/team_name"
+                style="@style/CategoryStyle2"
+                android:gravity="center"
+                />
+
+            <AutoCompleteTextView
+                android:id="@+id/autocomplete_teamname"
+                style="@style/CategoryStyle2"
+                />
+        </LinearLayout>
+        <!--<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_team_match"
+                android:text="@string/team_match"
+                style="@style/CategoryStyle"
+                android:gravity="center"
+                />
+
+            <EditText
+                android:id="@+id/ed_team_match"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:hint="@string/hint_team_match"
+                android:inputType="number" />
+
+        </LinearLayout>-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_team_win"
+                android:text="@string/team_win"
+                style="@style/CategoryStyle2"
+                android:gravity="center"
+                />
+
+            <EditText
+                android:id="@+id/ed_team_win"
+                android:inputType="number"
+                style="@style/CategoryStyle2" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_team_draw"
+                android:text="@string/team_draw"
+                style="@style/CategoryStyle2"
+                android:gravity="center"
+                />
+
+            <EditText
+                android:id="@+id/ed_team_draw"
+                android:inputType="number"
+                style="@style/CategoryStyle2" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_team_lose"
+                android:text="@string/team_lose"
+                style="@style/CategoryStyle2"
+                android:gravity="center"
+                />
+
+            <EditText
+                android:id="@+id/ed_team_lose"
+                android:inputType="number"
+                style="@style/CategoryStyle2" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_team_goalwin"
+                android:text="@string/team_goalwin"
+                style="@style/CategoryStyle2"
+                android:gravity="center"
+                />
+
+            <EditText
+                android:id="@+id/ed_team_goalwin"
+                android:inputType="number"
+                style="@style/CategoryStyle2" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_team_goallose"
+                android:text="@string/team_goallose"
+                style="@style/CategoryStyle2"
+                android:gravity="center"
+                />
+            <EditText
+                android:id="@+id/ed_team_goallose"
+                android:inputType="number"
+                style="@style/CategoryStyle2" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
